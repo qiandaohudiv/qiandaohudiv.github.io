@@ -1,0 +1,30 @@
+@media screen and (min-width: 480px){
+	#pramary{
+		width: 50%;
+		float: left;
+	}
+	#secondary{
+		width: 40%;
+		float: right;
+	}
+
+
+
+
+
+	/********************************************/
+	#gallery li{
+		width: 28.3333%;
+	}
+
+	/********************************************/
+
+	.profile-photo{
+		float: left;
+		margin: 0 5% 80px 0;
+	}
+}
+
+@media screen and (min-width: 980px){
+	
+}
